@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ContaTerminal",
+            "request": "launch",
+            "mainClass": "ContaTerminal",
+            "projectName": "dio-trilha-java-basico_52e1fce4"
+        },
+        {
+            "type": "java",
+            "name": "CondicionalSimples",
+            "request": "launch",
+            "mainClass": "com.luis.controledefluxo.CondicionalSimples",
+            "projectName": "dio-trilha-java-basico_52e1fce4"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "com.luis.exercicios.Usuario",
+            "projectName": "dio-trilha-java-basico_52e1fce4"
+        },
+        {
+            "type": "java",
+            "name": "AnatomiaClasse",
+            "request": "launch",
+            "mainClass": "com.luis.primeirasemana.AnatomiaClasse",
+            "projectName": "dio-trilha-java-basico_52e1fce4"
+        },
+        {
+            "type": "java",
+            "name": "Boletim",
+            "request": "launch",
+            "mainClass": "com.luis.primeirasemana.Boletim",
+            "projectName": "dio-trilha-java-basico_52e1fce4"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "com.luis.primeirasemana.MinhaClasse",
+            "projectName": "dio-trilha-java-basico_52e1fce4"
+        },
+        {
+            "type": "java",
+            "name": "ExemploVariavel",
+            "request": "launch",
+            "mainClass": "com.luis.segundasemana.TipoVariaveis.ExemploVariavel",
+            "projectName": "dio-trilha-java-basico_52e1fce4"
+        },
+        {
+            "type": "java",
+            "name": "TipoDados",
+            "request": "launch",
+            "mainClass": "com.luis.segundasemana.TipoVariaveis.TipoDados",
+            "projectName": "dio-trilha-java-basico_52e1fce4"
+        },
+        {
+            "type": "java",
+            "name": "TipoVariaveis",
+            "request": "launch",
+            "mainClass": "com.luis.segundasemana.TipoVariaveis.TipoVariaveis",
+            "projectName": "dio-trilha-java-basico_52e1fce4"
+        },
+        {
+            "type": "java",
+            "name": "ComparacoesAvancadas",
+            "request": "launch",
+            "mainClass": "com.luis.terceirasemana.Operadores.ComparacoesAvancadas",
+            "projectName": "dio-trilha-java-basico_52e1fce4"
+        },
+        {
+            "type": "java",
+            "name": "Logicos",
+            "request": "launch",
+            "mainClass": "com.luis.terceirasemana.Operadores.Logicos",
+            "projectName": "dio-trilha-java-basico_52e1fce4"
+        },
+        {
+            "type": "java",
+            "name": "Relacionais",
+            "request": "launch",
+            "mainClass": "com.luis.terceirasemana.Operadores.Relacionais",
+            "projectName": "dio-trilha-java-basico_52e1fce4"
+        },
+        {
+            "type": "java",
+            "name": "Ternarios",
+            "request": "launch",
+            "mainClass": "com.luis.terceirasemana.Operadores.Ternarios",
+            "projectName": "dio-trilha-java-basico_52e1fce4"
+        },
+        {
+            "type": "java",
+            "name": "Unarios",
+            "request": "launch",
+            "mainClass": "com.luis.terceirasemana.Operadores.Unarios",
+            "projectName": "dio-trilha-java-basico_52e1fce4"
+        }
+    ]
+}
