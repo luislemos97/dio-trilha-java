@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ResultadoEscolar",
+            "request": "launch",
+            "mainClass": "com.luis.controledefluxo.ResultadoEscolar",
+            "projectName": "dio-trilha-java-basico_52e1fce4"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
