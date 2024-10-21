@@ -1,6 +1,6 @@
 package com.luis.controledefluxo;
 
-public class ResultadoEscolar {
+public class CondicionalEncadeada {
 
     public static void main(String[] args) {
         
