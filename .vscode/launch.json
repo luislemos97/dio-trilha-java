@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploForBreakContinue",
+            "request": "launch",
+            "mainClass": "com.luis.estruturaderepeticao.ExemploForBreakContinue",
+            "projectName": "dio-trilha-java-basico_52e1fce4"
+        },
+        {
+            "type": "java",
+            "name": "ExemploForArrays",
+            "request": "launch",
+            "mainClass": "com.luis.estruturaderepeticao.ExemploForArrays",
+            "projectName": "dio-trilha-java-basico_52e1fce4"
+        },
+        {
+            "type": "java",
+            "name": "ExemploFor",
+            "request": "launch",
+            "mainClass": "com.luis.estruturaderepeticao.ExemploFor",
+            "projectName": "dio-trilha-java-basico_52e1fce4"
+        },
+        {
+            "type": "java",
             "name": "ResultadoEscolar",
             "request": "launch",
             "mainClass": "com.luis.controledefluxo.ResultadoEscolar",
