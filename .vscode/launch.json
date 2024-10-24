@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "com.luis.estruturaexcepcionais.AboutMe",
+            "projectName": "dio-trilha-java-basico_52e1fce4"
+        },
+        {
+            "type": "java",
             "name": "ExemploForBreakContinue",
             "request": "launch",
             "mainClass": "com.luis.estruturaderepeticao.ExemploForBreakContinue",
