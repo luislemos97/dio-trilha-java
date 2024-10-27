@@ -24,22 +24,18 @@ public class LigandoParaCandidatosSelecionados {
                         System.out.println("Contato realizado com sucesso");
 
             }while (continuarTentando && tentativasRealizadas < 3);
-
             if (atendeu) {
                 System.out.println("Conseguimos contato com o " + candidato + " Na " + tentativasRealizadas + " tentiva");          
             } else 
                     System.out.println("Não conseguimos contato com o " + candidato + " Numero maximo de " + tentativasRealizadas+ " tentiva");
-
         }
+
         // metodo auxiliar
         static boolean atender () {
             return new Random().nextInt(3)==1;
         }
 
-
-
-        static void ImprimindoCandidatos () {
-    
+        static void ImprimindoCandidatos () {  
             String candidatos [] = { "Luis" , "Marcos" , "Julia", "Gabriela", "Ciclano" };
     
             System.out.println(" imprimindo lista de candidatos por indice ");
@@ -71,8 +67,8 @@ public class LigandoParaCandidatosSelecionados {
                 }
                 candidatosAtual ++;
             }
-    
-        }        
+        } 
+
         static double valorPretendido () {
                 return ThreadLocalRandom.current().nextDouble(1800, 2200);
     }
@@ -86,7 +82,6 @@ public class LigandoParaCandidatosSelecionados {
             } else {
                 System.out.println(" Analisar outros candidatos");
             }
-        }
-    
+        } 
     }
     
