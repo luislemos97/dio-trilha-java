@@ -2,9 +2,26 @@ package com.luis.exercicios;
 
 import java.util.concurrent.ThreadLocalRandom;
 
-public class SelecionandoCandidatos {
+public class ImprimindoSelecionados {
     public static void main(String[] args) {
-        selecaoDeCandidatos();
+        ImprimindoCandidatos();
+    }
+
+    static void ImprimindoCandidatos () {
+
+        String candidatos [] = { "Luis" , "Marcos" , "Julia", "Gabriela", "Ciclano" };
+
+        System.out.println(" imprimindo lista de candidatos por indice ");
+
+        for(int indice=0; indice < candidatos.length; indice++) {
+        System.out.println("O candidato de número " + (indice+1)+ " é o(a) " + candidatos[indice] );
+        }
+
+        System.out.println( "Forma Abreviada de interação for each ");
+
+        for (String candidato : candidatos) {
+            System.out.println("O candidato selecionado foi " + candidato);
+        }
     }
 
     static void selecaoDeCandidatos () {
@@ -41,6 +58,3 @@ public class SelecionandoCandidatos {
     }
 
 }
-
-
-
