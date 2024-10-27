@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ImprimindoSelecionados",
+            "request": "launch",
+            "mainClass": "com.luis.exercicios.ImprimindoSelecionados",
+            "projectName": "dio-trilha-java-basico_52e1fce4"
+        },
+        {
+            "type": "java",
+            "name": "SelecionandoCandidatos",
+            "request": "launch",
+            "mainClass": "com.luis.exercicios.SelecionandoCandidatos",
+            "projectName": "dio-trilha-java-basico_52e1fce4"
+        },
+        {
+            "type": "java",
             "name": "AboutMe",
             "request": "launch",
             "mainClass": "com.luis.estruturaexcepcionais.AboutMe",
