@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Contador",
+            "request": "launch",
+            "mainClass": "Contador",
+            "projectName": "dio-trilha-java-basico_52e1fce4"
+        },
+        {
+            "type": "java",
+            "name": "LigandoParaCandidatosSelecionados",
+            "request": "launch",
+            "mainClass": "com.luis.exercicios.LigandoParaCandidatosSelecionados",
+            "projectName": "dio-trilha-java-basico_52e1fce4"
+        },
+        {
+            "type": "java",
             "name": "ImprimindoSelecionados",
             "request": "launch",
             "mainClass": "com.luis.exercicios.ImprimindoSelecionados",
