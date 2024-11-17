@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IPhone",
+            "request": "launch",
+            "mainClass": "IPhone",
+            "projectName": "dio-trilha-java_d5fb4a5"
+        },
+        {
+            "type": "java",
             "name": "Contador",
             "request": "launch",
             "mainClass": "Contador",
