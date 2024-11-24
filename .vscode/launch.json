@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "dio-trilha-java_d5fb4a5"
+        },
+        {
+            "type": "java",
             "name": "IPhone",
             "request": "launch",
             "mainClass": "IPhone",
