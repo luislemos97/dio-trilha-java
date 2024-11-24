@@ -17,7 +17,7 @@ Permite que você defina uma classe filha que reutiliza (herda), estende ou modi
 ### Polimorfismo
 Capacidade de um objeto poder ser referenciado de várias formas, ou seja, é capacidade de tratar objetos criados a partir das classes específicas como objetos de uma classe genérica. Cuidado, polimorfismo não quer dizer que o objeto fica se transformando, muito pelo contrário, um objeto nasce de um tipo e morre daquele tipo, o que pode mudar é a maneira como nos referimos a ele.
 
-## 02/10/2024 - Melhorias no projeto
+## 24/11/2024 - Melhorias no projeto
 - Conversão para projeto maven
 - Java 21
 - Uso do Lombok para reduzir a verbosidade
