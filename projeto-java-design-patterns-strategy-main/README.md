@@ -52,7 +52,7 @@ Clone o repositório:
 
 ````bash
 Copiar código
-git clone https://github.com/cleosilva/java-design-patterns-strategy.git
+git clone https://github.com/luislemos97/dio-trilha-java/tree/main/projeto-java-design-patterns-strategy-main
 cd java-design-patterns-strategy
 ````
 Compile o projeto: Certifique-se de ter o Maven configurado e execute:
