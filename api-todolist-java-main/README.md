@@ -25,7 +25,7 @@ Este projeto é uma API de lista de tarefas (ToDo List) construída com Spring B
 Clone este repositório no seu ambiente local:
 
 ```bash
-git clone https://github.com/cleosilva/api-todolist-java.git
+git clone https://github.com/luislemos97/dio-trilha-java/tree/main/api-todolist-java-main
 ```
 ### 2. Instalando as Dependências
 Dentro da pasta do projeto, execute:
