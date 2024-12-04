@@ -22,7 +22,7 @@ Este projeto é uma API de lista de tarefas (ToDo List) construída com Spring B
 * Postman ou qualquer ferramenta para testar APIs REST.
 
 ### 1. Clonando o Repositório
-Clone este repositório no seu ambiente local:
+Clone este repositório no seu ambiente local!
 
 ```bash
 git clone https://github.com/luislemos97/dio-trilha-java/tree/main/api-todolist-java-main
